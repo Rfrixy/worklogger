@@ -1,7 +1,7 @@
 # Worklogger Doc
 
 ### Release
-[Download the latest v3.0 release here]: http://www.reddit.com
+[Download the latest v3.0 release here] : http://www.reddit.com
 
 ### Setting up
 
