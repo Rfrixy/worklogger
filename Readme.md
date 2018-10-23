@@ -1,7 +1,7 @@
 # Worklogger Doc
 
 ### Releases
-[Download the latest v3.0 release here](https://drive.google.com/open?id=1faTA0_H15kog_6MSXN7iyc8KswifZWQ2)
+[Download the latest v3.0 release here](https://github.com/Rfrixy/worklogger/releases)
 
 ### Setting up
 
