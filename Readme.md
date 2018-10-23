@@ -7,7 +7,7 @@
 
 You require npm and node installed; node must be greater than v6.
 
-Navigate to the directory and run the following commands
+Navigate to the directory and run the following commands on the terminal
 
 `npm install electron --save-dev`
 `npm install`
